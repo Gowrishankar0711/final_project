@@ -1,0 +1,113 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env/
+.env
+.venv/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# ==============================
+# Streamlit
+# ==============================
+.streamlit/secrets.toml
+
+# ==============================
+# Virtual Environment
+# ==============================
+env/
+venv/
+dl310/
+dl_clean/
+
+# ==============================
+# Model Files (DO NOT push large models)
+# ==============================
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.bin
+*.model
+*.sav
+*.pkl
+
+# Word2Vec / Embeddings
+*.kv
+*.vectors.npy
+
+# HuggingFace Cache
+.cache/
+huggingface/
+~/.cache/huggingface/
+
+# ==============================
+# Data Files (Training/Test Data)
+# ==============================
+data/
+datasets/
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# If you want to keep sample data, comment the above and use:
+# !sample_data.csv
+
+# ==============================
+# Logs
+# ==============================
+*.log
+logs/
+
+# ==============================
+# MySQL / Database
+# ==============================
+*.db
+*.sqlite3
+*.sql
+
+# ==============================
+# VS Code
+# ==============================
+.vscode/
+
+# ==============================
+# Mac / Windows System Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Temporary Files
+# ==============================
+*.tmp
+*.bak
+*.swp
+
+# ==============================
+# Build / Distribution
+# ==============================
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# Coverage / Testing
+# ==============================
+.coverage
+htmlcov/
+.pytest_cache/
