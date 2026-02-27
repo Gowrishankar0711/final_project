@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a comprehensive sentiment analysis and crisis intelligence pipeline for monitoring social media feedback (tweets/reviews). It combines multiple NLP and deep learning techniques to detect sentiment, identify crisis signals, generate executive summaries, extract named entities, and perform statistical analysis on sentiment trends and a streamlit application is also built.
+This project implements a comprehensive sentiment analysis and crisis intelligence pipeline for monitoring social media feedback (tweets/reviews). It combines multiple NLP and deep learning techniques to detect sentiment,  generate executive summaries, extract named entities. A streamlit application is also built.
 
 ## Key Features
 
