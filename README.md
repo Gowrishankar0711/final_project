@@ -67,11 +67,7 @@ This project implements a comprehensive sentiment analysis and crisis intelligen
      - **MISC**: Other important entities
    - Groups and ranks entities by frequency
 
-### 9. **Statistical Analysis**
-   - **Chi-Squared Test**: Analyzes sentiment distribution changes over time
-   - **Cramer's V**: Measures effect size
-   - Splits data into two time periods (before/after median date)
-   - Contingency table analysis
+
 
 ## Data Pipeline Flow
 
